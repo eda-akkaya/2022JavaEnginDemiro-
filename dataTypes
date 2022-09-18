@@ -5,6 +5,7 @@ public class DataTypes {
         int number = 12;
         double number1 = 12.8;
         char character = 'w'; 
+        boolean isTrue = false;
         
         
         
