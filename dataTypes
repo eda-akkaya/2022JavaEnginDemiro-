@@ -1,0 +1,14 @@
+public class DataTypes {
+
+
+    public static void main(String[] args) {
+        int number = 12;
+        double number1 = 12.8;
+        char character = 'w'; 
+        
+        
+        
+        //            Primitive Types      
+        //  boolean (true or false), char (single character),
+        //  byte, short, int, long -->(integer),
+        //  float, double --> (floating-point number)
